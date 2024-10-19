@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="barBG">#673AB7</color>
+    <color name="navLinearBg">#13E4FF</color>
+    <color name="homefragment">#750800</color>
+    <color name="personfragment">#21349D</color>
+    <color name="searchfragment">#9C27B0</color>
+    <color name="exitfragment">#FF5722</color>
+
+
+</resources>
